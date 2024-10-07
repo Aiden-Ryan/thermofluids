@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: thermofluids
+Version: 0.1.29
+Summary: thermofluid library
+Author: Aiden Ryan
+Author-email: aiden.mc.ryan@gmail.com
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: CoolProp
+Requires-Dist: CtREFPROP
+Provides-Extra: dev
+Requires-Dist: twine>=4.0.2; extra == "dev"

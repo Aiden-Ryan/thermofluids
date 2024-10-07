@@ -1,0 +1,7 @@
+numpy
+scipy
+CoolProp
+CtREFPROP
+
+[dev]
+twine>=4.0.2
